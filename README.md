@@ -22,4 +22,9 @@ This will open up a browser window with the jupyter lab interface.
 
 Alternatively, you can open and run the jupyter notebook in [Visual Studio Code](https://code.visualstudio.com/).
 
+## Information about `PyCharge`
+Please refer to the `PyCharge` [documentation](https://pycharge.readthedocs.io/en/latest/) for more information on the package. 
 
+The paper describing `PyCharge` is the following:
+
+M. Filipovich and S. Hughes, PyCharge: [An open-source Python package for self-consistent electrodynamics simulations of Lorentz oscillators and moving point charges](https://arxiv.org/abs/2107.12437), Comput. Phys. Commun. 274, 108291 (2022).
